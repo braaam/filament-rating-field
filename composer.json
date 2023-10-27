@@ -1,12 +1,12 @@
 {
-    "name": "yepsua/filament-rating-field",
+    "name": "braaam/filament-rating-field",
     "description": "Ranting field for the Filament forms",
     "keywords": [
         "yepsua",
         "laravel",
         "filament-rating-field"
     ],
-    "homepage": "https://github.com/yepsua/filament-rating-field",
+    "homepage": "https://github.com/braaam/filament-rating-field",
     "license": "MIT",
     "authors": [
         {
